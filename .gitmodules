@@ -1,0 +1,15 @@
+[submodule "Unity2DPlayerMovement"]
+	path = Unity2DPlayerMovement
+	url = https://github.com/yuki-scribbles/Unity2DPlayerMovement.git
+[submodule "game-design-midterm"]
+	path = game-design-midterm
+	url = https://github.com/yuki-scribbles/game-design-midterm.git
+[submodule "Unity-3D-Samples"]
+	path = Unity-3D-Samples
+	url = https://github.com/yuki-scribbles/Unity-3D-Samples.git
+[submodule "tilemap"]
+	path = tilemap
+	url = https://github.com/yuki-scribbles/tilemap.git
+[submodule "2D-scene-and-ui"]
+	path = 2D-scene-and-ui
+	url = https://github.com/yuki-scribbles/2D-scene-and-ui.git
